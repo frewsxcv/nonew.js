@@ -1,0 +1,16 @@
+{
+    "name": "nonew",
+    "version": "1.0.0",
+    "description": "Allows constructor functions to be called without using `new`",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:frewsxcv/nonew.js.git"
+    },
+    "author": "Corey Farwell <coreyf@rwell.org>",
+    "license": "MPL-2.0",
+    "bugs": {
+        "url": "https://github.com/frewsxcv/nonew.js/issues"
+    },
+    "homepage": "https://github.com/frewsxcv/nonew.js",
+    "main": "nonew.js"
+}
